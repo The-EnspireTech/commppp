@@ -1,15 +1,12 @@
-import "./App.css";
-import logo from "./Logo.png";
 function App() {
   return (
-    <div className="App">
+    <div class="App">
       <header>
-        <div className="img">
-          <img src={logo} alt="" />
+        <div class="img">
           <h2>Enspire Tech</h2>
         </div>
       </header>
-      <div className="center">
+      <div class="center">
         <h1>Coming Soon</h1>
         <a href="https://facebook.com/enspiretech" target="_blank">
           Contact Us
