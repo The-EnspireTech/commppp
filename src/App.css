@@ -6,6 +6,7 @@
 .App {
   position: relative;
   background: url("./ba.jpg");
+  background-color: black;
   height: 100vh;
   background-size: cover;
   color: white;
